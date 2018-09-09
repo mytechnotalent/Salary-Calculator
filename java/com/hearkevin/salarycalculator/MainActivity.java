@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
             monthlySalary = Math.ceil(monthlySalary * 100.0) / 100.0;
 
-            resultTextView.setText(String.format("$" + "%.2f" + " Monthly Salary", monthlySalary));
+            resultTextView.setText(String.format("$" + "%0.2f" + " Monthly Salary", monthlySalary));
         }
     }
 
