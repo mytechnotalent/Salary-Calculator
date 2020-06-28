@@ -1,6 +1,18 @@
 # Salary Calculator
 A salary calculator that will take your annual salary as an input and calculate your monthly, bi-weekly or weekly salary. 
 
+## Installation
+```bash
+git clone https://github.com/mytechnotalent/salarycalculator.git
+cd salarycalculator
+```
+
+## Running
+
+```bash
+Android Studio
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
