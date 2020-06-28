@@ -9,9 +9,7 @@ cd salarycalculator
 
 ## Running
 
-```bash
-Android Studio
-```
+Open project in Android Studio and load to Android phone.
 
 ## Contributing
 
