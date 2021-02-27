@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/Salary_Calculator/blob/master/Salary%20Calculator.png?raw=true)
+![image](https://github.com/mytechnotalent/Salary-Calculator/blob/main/Salary%20Calculator.png?raw=true)
 
 # Salary Calculator
 A salary calculator that will take your annual salary as an input and calculate your monthly, bi-weekly or weekly salary. 
